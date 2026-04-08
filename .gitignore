@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data & Models (Ignore large files)
+*.csv
+*.pkl
+
+# Node / React
+node_modules/
+dist/
+dist-ssr/
+*.local
+.eslintcache
+
+# Env vars
+.env
+.env.local
+.env.*.local
+venv/
+.venv/
+env/
+
+# Editor/OS
+.vscode/
+.DS_Store
+Thumbs.db
