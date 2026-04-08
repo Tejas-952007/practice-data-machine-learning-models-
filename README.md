@@ -44,4 +44,4 @@ A high-performance machine learning project designed to predict hourly energy co
    The dashboard will be available at `http://localhost:5173`.
 
 ---
-*Created by Antigravity - Advanced Agentic Coding Assistant*
+**
